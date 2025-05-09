@@ -16,8 +16,8 @@ require("./all/module.js")
 
 //========== Setting Owner ==========//
 
-global.owner = "263780166288" //replace with your phone number
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ" //replace with your name
+global.owner = "254758446651" //replace with your phone number
+global.namaowner = "whatsapp" //replace with your name
 
 
 //======== Setting Bot & Link ========//
